@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-logs",
+  "version": "1.0.0",
+  "description": "bootstrap themed color console logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "console",
+    "logs",
+    "debug"
+  ],
+  "author": "DecaHub",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
